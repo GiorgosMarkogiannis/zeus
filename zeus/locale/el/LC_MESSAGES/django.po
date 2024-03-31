@@ -339,7 +339,7 @@ msgid "Email"
 msgstr "Email"
 
 #, python-format
-msgid "%d deliveries available"
+msgid "%d sms deliveries available"
 msgstr "%d αποστολές sms διαθέσιμες"
 
 msgid "Please provide SMS body"
@@ -450,7 +450,7 @@ msgstr ""
 "Οι ψηφοφόροι θα μπορούν να επικοινωνούν σε αυτό το τηλέφωνο για υποστήριξη "
 "σε θέματα της ψηφοφορίας"
 
-msgid "Whether or not to allow remote mixing"
+msgid "Choose whether or not you want to allow remote mixing"
 msgstr ""
 "Επιλέξτε αν θέλετε να παρέχετε εξωτερικά στάδια μίξης μετά την ψηφοφορία -- "
 "αφήστε κενό εάν δεν είστε σίγουρος/η"
@@ -460,7 +460,7 @@ msgstr ""
 "Οι ψηφοφόροι θα πρέπει να αποδεχθούν το παρακάτω κείμενο προκειμένου να "
 "μπορέσουν να καταθέσουν την ψήφο τους."
 
-msgid "Whether or not to enable election forum"
+msgid "Choose whether or not you want to enable election forum"
 msgstr "Επιλέξτε αν θέλετε να ενεργοποιήσετε τη δυνατότητα διαβούλευσης"
 
 msgid "Forum access starts at"
@@ -484,7 +484,7 @@ msgid "Are you sure you want to freeze the election ?"
 msgstr "Επιβεβαιώστε την οριστικοποίηση της ψηφοφορίας"
 
 msgid "Are you sure you want to delete the selected poll ?"
-msgstr "Επιβεβαιώστε τη διαγραφή της επιλεγμένης κάλπης"
+msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετε τηv επιλεγμένης κάλπης"
 
 msgid "Admin guide for"
 msgstr "Οδηγός διαχειριστή για"
@@ -537,7 +537,7 @@ msgstr "Εξαιρεθέντες ψηφοφόροι"
 msgid "Poll name"
 msgstr "Όνομα κάλπης"
 
-msgid "RESULTS"
+msgid "GENERAL RESULTS"
 msgstr "ΑΠΟΤΕΛΕΣΜΑΤΑ ΓΕΝΙΚΑ"
 
 msgid "TOTAL VOTES"
@@ -598,7 +598,7 @@ msgid "Eliminated"
 msgstr "Αποκλεισμός"
 
 msgid "Eliminated due to quota restriction"
-msgstr "Αποκλεισμός λόγω περιορισμού"
+msgstr "Αποκλεισμός λόγω περιορισμού ποσοστώσεων"
 
 msgid "Elected"
 msgstr "Εκλεγμένοι"
@@ -624,7 +624,7 @@ msgstr "ΝΑΙ"
 msgid "RANKING"
 msgstr "ΒΑΘΜΟΛΟΓΙΚΗ ΚΑΤΑΤΑΞΗ"
 
-msgid "SCORES"
+msgid "DETAILED SCORES"
 msgstr "ΒΑΘΜΟΛΟΓΙΕΣ ΑΝΑΛΥΤΙΚΑ"
 
 msgid "SCORES:"
